@@ -36,9 +36,9 @@ streamlit run app.py
 
 ## 📸 Screenshot
 
-![alt text](screenshot1-1.png)
-![alt text](screenshot2-1.png)
-![alt text](screenshot3-1.png)
+![alt text](screenshot1.png)
+![alt text](screenshot2.png)
+![alt text](screenshot3.png)
 
 ## 📌 What I Learned
 
